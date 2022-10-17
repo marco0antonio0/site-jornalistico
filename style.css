@@ -1,0 +1,57 @@
+
+.b{
+    background-color: rgba(26, 43, 60, 1);
+}
+/* ========================================== */
+.b1 {
+    height: 120px;
+    max-width: 1200px;
+    background-color: rgba(23, 26, 33, 1);
+    margin: auto;
+
+}
+
+.b1 a {
+    text-decoration: none;
+    color: white;
+    margin: auto;
+}
+
+.b1 h1 {
+    margin: auto auto auto 30px;
+    color: white;
+}
+
+
+.b1 div {
+    width: 400px;
+}
+/* ========================================== */
+.b2{
+    height: 600px;
+    background-color: rgba(204, 208, 255, 1);
+}
+.b2 .div_img{
+    max-height: 600px;
+    width: auto;
+    margin: auto;
+}
+.b2 img{
+    height:100% ;
+    width: auto;
+}
+/* ========================================== */
+.b3{
+    margin: auto;
+    height: auto;
+    max-width: 1100px;
+}
+.b3 h1{
+    margin-left: 30px;
+    color: white;
+}
+.b3 p{
+    color: white;
+    font-size:23px;
+    line-height: 35px;
+}
