@@ -1,6 +1,3 @@
-# site-jornalistico
-estudo ao desenvolvimento web
-=======
 # Estudo ao desenvolvimento web
 ##  Palheta de cores
 ![img](/image_readme/palheta_de_cores.png)
@@ -21,4 +18,3 @@ estudo ao desenvolvimento web
 #   Pessoas desenvolvendo
 -   Marco Antonio
     -
->>>>>>> master
