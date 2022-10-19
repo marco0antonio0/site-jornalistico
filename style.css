@@ -30,6 +30,7 @@
 .b2{
     height: 600px;
     background-color: rgba(204, 208, 255, 1);
+    align-items: center;
 }
 .b2 .div_img{
     max-height: 600px;
@@ -38,7 +39,8 @@
 }
 .b2 img{
     height:100% ;
-    width: auto;
+    width: 500px;
+    margin: auto;
 }
 /* ========================================== */
 .b3{
